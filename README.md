@@ -12,8 +12,9 @@ Users are able to
 
 ## 🔹 Week 4
 
-### 🧾 Autocomplete info
+### 🧾 Autocomplete form
 
 Users are able to
 
-- automatically copy values from Shipping information or clear the fields in Billing Information by click the checkbox ✅
+- automatically copy values from Shipping information into Billing Information
+- or clear the fields by click the checkbox ✅
