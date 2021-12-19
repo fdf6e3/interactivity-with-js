@@ -16,5 +16,5 @@ Users are able to
 
 Users are able to
 
-- automatically copy values from Shipping information into Billing Information
-- or clear the fields by click the checkbox ✅
+- automatically copy values from Shipping information into Billing Information by click the checkbox ✅
+- clear the fields If the checkbox is unchecked
