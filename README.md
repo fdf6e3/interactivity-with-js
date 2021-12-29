@@ -8,7 +8,7 @@ This repository contains my solutions of Coursera assignments
 
 Users are able to
 
-- see the photos and message by putting their mouse over a preview image 🖱
+- see the photos and messages by putting their mouse over a preview image 🖱
 
 ## 🔹 Week 4
 
@@ -16,5 +16,5 @@ Users are able to
 
 Users are able to
 
-- automatically copy values from Shipping information into Billing Information by click the checkbox ✅
-- clear the fields If the checkbox is unchecked
+- automatically copy values from Shipping Information into Billing Information by click the checkbox ✅
+- clear the fields when the checkbox is unchecked
